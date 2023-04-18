@@ -13,6 +13,20 @@ html {
 :root {
   --black: #000000;
   --white: #ffffff;
+  --pastelgreen: #A5C49E;
+  --pastel-light-green: #CDE2BD;
+  --pastel-blue: #B3E1EF;
+  --pastel-purple: #CEBDE0;
+  --orange-color: #E48845;
+  --yellow-color: #FFFB95;
+  --brown-color: #654141;
+  --deep-purple: #272B45;
+  --camo-green: #717B6F;
+  --pastelred: #BA4047;
+  --nightpurple: #5A5B7E;
+  --button-beige: #FFF9F0;
+  
+
 }
 
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
@@ -354,9 +368,15 @@ textarea {
 /* =============
     Navigation
 ============= */
-/* =============
-    Header
-============= */
+*::after
+*::before {
+  box-sizing: border-box;
+}
+
+body{
+  margin: 0;
+
+}
 /* =============
     Footer
 ============= */
