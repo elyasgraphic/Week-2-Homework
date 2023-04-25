@@ -28,14 +28,24 @@ html {
   
 
 }
+.btn {
+  
+  padding: 7px 10px;
+  border-radius: 7px;
+  color: #fff;
+  display: inline-block;
+  font-weight: 400;
+font-size: 18px;
+}
 
-/*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
-/* Document
-   ========================================================================== */
-/**
- * 1. Correct the line height in all browsers.
- * 2. Prevent adjustments of font size after orientation changes in iOS.
- */
+.btn.watch01{
+background-color:var(--orange-color) ;
+}
+
+.btn.watch02{
+  background-color: var(--yellow-color);
+}
+
 html {
   line-height: 1.15; /* 1 */
   -webkit-text-size-adjust: 100%; /* 2 */
