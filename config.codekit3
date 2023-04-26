@@ -9,6 +9,18 @@
   ],
   "creatorBuild" : "34472",
   "files" : {
+    "\/deploy\/css\/StleDONTTOUCH.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/css\/StleDONTTOUCH-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
     "\/deploy\/css\/styles.css" : {
       "aP" : 1,
       "bl" : 0,
@@ -326,7 +338,7 @@
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 0,
+      "oA" : 1,
       "oAP" : "\/dev\/global\/body.html",
       "oF" : 0
     },
@@ -334,7 +346,7 @@
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 0,
+      "oA" : 1,
       "oAP" : "\/dev\/global\/footer.html",
       "oF" : 0
     },
@@ -352,6 +364,14 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/global\/header.html",
+      "oF" : 0
+    },
+    "\/dev\/global\/hero.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/global\/hero.html",
       "oF" : 0
     },
     "\/dev\/global\/scripts.kit" : {
