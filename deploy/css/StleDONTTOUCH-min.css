@@ -53,6 +53,10 @@ background-color:var(--orange-color) ;
 }
 
 
+nav{
+  display: flex;
+  justify-content: space-between;
+}
 
 html {
   line-height: 1.15; 
@@ -122,6 +126,7 @@ a {
 abbr[title] {
   border-bottom: none; /* 1 */
   text-decoration: underline; /* 2 */
+  -webkit-text-decoration: underline dotted;
   text-decoration: underline dotted; /* 2 */
 }
 

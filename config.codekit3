@@ -9,6 +9,18 @@
   ],
   "creatorBuild" : "34472",
   "files" : {
+    "\/deploy\/css\/StleDONTTOUCH-min.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/css\/StleDONTTOUCH-min-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
     "\/deploy\/css\/StleDONTTOUCH.css" : {
       "aP" : 1,
       "bl" : 0,
@@ -334,12 +346,44 @@
       "sC" : 3,
       "tS" : 0
     },
-    "\/dev\/global\/body.kit" : {
+    "\/dev\/content\/body.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/content\/body.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/Gallery.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/global\/body.html",
+      "oAP" : "\/dev\/content\/Gallery.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/hero.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/hero.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/subhero.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/subhero.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/whatsnew.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/whatsnew.html",
       "oF" : 0
     },
     "\/dev\/global\/footer.kit" : {
@@ -364,14 +408,6 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/global\/header.html",
-      "oF" : 0
-    },
-    "\/dev\/global\/hero.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/global\/hero.html",
       "oF" : 0
     },
     "\/dev\/global\/scripts.kit" : {

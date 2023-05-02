@@ -52,12 +52,6 @@ background-color:var(--orange-color) ;
   background-color: var(--yellow-color);
 }
 
-header{
-
-  background: #fff;
-  height: 103 px;
-  width: 100%;
-}
 
 nav{
   display: flex;
