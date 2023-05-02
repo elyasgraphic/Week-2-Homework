@@ -1,0 +1,12 @@
+#whatsnew{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-auto-columns: 16px auto 16px;
+
+    grid-template-areas:
+    ". content .";
+
+    >div {
+        grid-area: content;
+    }
+}
