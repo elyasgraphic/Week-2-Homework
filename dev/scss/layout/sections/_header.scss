@@ -1,12 +1,9 @@
-/* =============
-    Header
-============= */
 #header{
 
     display: grid;
     grid-template-columns: 1fr;
 
-    header{
+    nav{
 
         background-color: var(--#0000);
         color: var(--#FFFF);
